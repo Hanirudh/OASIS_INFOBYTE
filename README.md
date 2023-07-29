@@ -1,2 +1,2 @@
 # OASIS_INFOBYTE
-This Repository is regarding the Internship Tasks giving by the OASIS INFOBYTE COMPANY 
+This Repository is a collection of some machine learning models, Which I built them for understanding the concepts of regression,classification   
